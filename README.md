@@ -5,9 +5,9 @@ In this step-by-step tutorial, learn how to build a cool and responsive bike web
 
 ![151-1](https://github.com/user-attachments/assets/2fea26a1-0b6b-4103-a20c-ea5657072198)
 
-Website Preview: https://webdesignmastery.github.io/STEED_13-04-25/
+Website Preview: https://animeshmaji.github.io/STEED_BIKE/
 
-Source Code: https://github.com/WebDesignMastery/STEED_13-04-25
+Source Code: https://github.com/animeshmaji/STEED_BIKE
 
 🔔 Don't forget to like, comment, and subscribe for more amazing web development tutorials!
 
